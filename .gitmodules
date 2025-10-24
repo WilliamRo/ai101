@@ -1,0 +1,6 @@
+[submodule "xai-kit"]
+	path = xai-kit
+	url = https://github.com/WilliamRo/xai-kit
+[submodule "talos"]
+	path = talos
+	url = https://github.com/WilliamRo/talos
